@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfandinoh&label=Profile%20views&color=0e75b6&style=flat" alt="jfandinoh" /> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Jaime Fandino</h1>
-
                                      \\\\\\\
                                     \\\\\\\\\\\\
                                   \\\\\\\\\\\\\\\
@@ -21,9 +20,9 @@
         _____________|','   ///_/-------------/   |
                       |===========,'
 
-
+</br>
 <p align="center">I'm focusing Currently improving my English, JS, Angular 15 and Flutter skills. Also I'm mobile development</p>
-
+</br></br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfandinoh&theme=oldie" alt="jfandinoh" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -72,14 +71,16 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jfandinoh&" alt="jfandinoh" /></p>
 
+ <!--
  <details>
 <summary><b>📈My GitHub Stats🧠</b>: </summary>
 <p align="center">
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jfandinoh&show_icons=true&locale=en" alt="jfandinoh" /></p>
-  <!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfandinoh&show_icons=true&locale=en&layout=compact" alt="jfandinoh" /></p>-->
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfandinoh&show_icons=true&locale=en&layout=compact" alt="jfandinoh" /></p>
 </p>
 </details>
 
 <p align="center">
 ![Made with love in Colombia](https://madewithlove.now.sh/co?heart=true&template=for-the-badge)
 </p>
+-->
