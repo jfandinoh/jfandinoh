@@ -22,7 +22,7 @@
                       |===========,'
 
 </br>
-<p align="left">I'm focusing Currently improving my English, JS, Angular 15 and Flutter skills. Also I'm mobile development</p>
+<p align="left">I'm focusing Currently improving my English, JS, Angular 15 and Flutter skills. Also I'm learning mobile development</p>
 </br></br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfandinoh&theme=oldie" alt="jfandinoh" /></a></p>
 
