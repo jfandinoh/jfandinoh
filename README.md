@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfandinoh&label=Profile%20views&color=0e75b6&style=flat" alt="jfandinoh" /> </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Jaime Fandino</h1>
+
                                      \\\\\\\
                                     \\\\\\\\\\\\
                                   \\\\\\\\\\\\\\\
@@ -21,7 +22,7 @@
                       |===========,'
 
 </br>
-<p align="center">I'm focusing Currently improving my English, JS, Angular 15 and Flutter skills. Also I'm mobile development</p>
+<p align="left">I'm focusing Currently improving my English, JS, Angular 15 and Flutter skills. Also I'm mobile development</p>
 </br></br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jfandinoh&theme=oldie" alt="jfandinoh" /></a></p>
 
@@ -56,7 +57,7 @@
 **VCS**
   
 <a href="https://gitlab.com/" title="GitLab"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/github.png" width="40" height="40"/></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/gitlab.png" width="40" height="40"/></a>
+<!--<a href="https://gitlab.com/" title="GitLab"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/gitlab.png" width="40" height="40"/></a>-->
 
 **IDS**
   
